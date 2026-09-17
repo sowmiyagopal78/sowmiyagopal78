@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sowmiya Gopal</h1>
-<h3 align="center">Core Data Analyst | Data Processing, Pipeline Automation & Business Analytics</h3>
+<h3 align="center">Data Analyst | Data Processing, Pipeline Automation & Business Intelligence Analyst</h3>
 
 <p align="center">
   📍 <b>Bengaluru, Karnataka, India</b> | 
@@ -44,50 +44,6 @@ Result-driven **Data Analyst** with **3+ years of experience** specializing in *
 * **Data Consolidation & Validation:** Harmonized 50+ regional datasets by setting up automated **data validation checks**, cutting multi-market reporting time from **10 days to 2 days**.
 
 ---
-
-### 🛠️ Key Skills & Tools
-
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- SQL -->
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Advanced Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%2Present%29.svg" alt="Excel" width="45" height="45"/>
-  </a>
-</p>
 
 | Core Competency | Skill Set & Applied Tools |
 | :--- | :--- |
